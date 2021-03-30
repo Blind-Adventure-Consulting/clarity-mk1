@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second category on Title</title>
+    <link>https://ryan131.github.io/example-site/categories/second-category/</link>
+    <description>Recent content in Second category on Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Mar 2021 19:06:51 -0400</lastBuildDate><atom:link href="https://ryan131.github.io/example-site/categories/second-category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>_Index</title>
+      <link>https://ryan131.github.io/example-site/posts/</link>
+      <pubDate>Sat, 27 Mar 2021 19:06:51 -0400</pubDate>
+      
+      <guid>https://ryan131.github.io/example-site/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

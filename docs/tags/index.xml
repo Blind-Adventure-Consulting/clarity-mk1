@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Title</title>
-    <link>https://example.com/tags/</link>
+    <link>https://ryan131.github.io/example-site/tags/</link>
     <description>Recent content in Tags on Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Mar 2021 19:33:43 -0400</lastBuildDate><atom:link href="https://ryan131.github.io/example-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#Life</title>
+      <link>https://ryan131.github.io/example-site/tags/#life/</link>
+      <pubDate>Sat, 27 Mar 2021 19:33:43 -0400</pubDate>
+      
+      <guid>https://ryan131.github.io/example-site/tags/#life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#Projects</title>
+      <link>https://ryan131.github.io/example-site/tags/#projects/</link>
+      <pubDate>Sat, 27 Mar 2021 19:33:43 -0400</pubDate>
+      
+      <guid>https://ryan131.github.io/example-site/tags/#projects/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

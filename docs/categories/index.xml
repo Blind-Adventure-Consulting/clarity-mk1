@@ -2,9 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Title</title>
-    <link>https://example.com/categories/</link>
+    <link>https://ryan131.github.io/example-site/categories/</link>
     <description>Recent content in Categories on Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Mar 2021 19:33:43 -0400</lastBuildDate><atom:link href="https://ryan131.github.io/example-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos</title>
+      <link>https://ryan131.github.io/example-site/categories/videos/</link>
+      <pubDate>Sat, 27 Mar 2021 19:33:43 -0400</pubDate>
+      
+      <guid>https://ryan131.github.io/example-site/categories/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pictures</title>
+      <link>https://ryan131.github.io/example-site/categories/pictures/</link>
+      <pubDate>Sat, 27 Mar 2021 19:31:19 -0400</pubDate>
+      
+      <guid>https://ryan131.github.io/example-site/categories/pictures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First category</title>
+      <link>https://ryan131.github.io/example-site/categories/first-category/</link>
+      <pubDate>Sat, 27 Mar 2021 19:06:51 -0400</pubDate>
+      
+      <guid>https://ryan131.github.io/example-site/categories/first-category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second category</title>
+      <link>https://ryan131.github.io/example-site/categories/second-category/</link>
+      <pubDate>Sat, 27 Mar 2021 19:06:51 -0400</pubDate>
+      
+      <guid>https://ryan131.github.io/example-site/categories/second-category/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
