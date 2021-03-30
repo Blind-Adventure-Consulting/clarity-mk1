@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pictures on Title</title>
-    <link>https://ryan131.github.io/example-site/categories/pictures/</link>
+    <link>https://ryanyu131.github.io/example-site/categories/pictures/</link>
     <description>Recent content in Pictures on Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Mar 2021 19:31:19 -0400</lastBuildDate><atom:link href="https://ryan131.github.io/example-site/categories/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 19:31:19 -0400</lastBuildDate><atom:link href="https://ryanyu131.github.io/example-site/categories/pictures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hockey</title>
-      <link>https://ryan131.github.io/example-site/posts/hockey/</link>
+      <link>https://ryanyu131.github.io/example-site/posts/hockey/</link>
       <pubDate>Sat, 27 Mar 2021 19:31:19 -0400</pubDate>
       
-      <guid>https://ryan131.github.io/example-site/posts/hockey/</guid>
+      <guid>https://ryanyu131.github.io/example-site/posts/hockey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stuff</title>
-      <link>https://ryan131.github.io/example-site/posts/stuff/</link>
+      <link>https://ryanyu131.github.io/example-site/posts/stuff/</link>
       <pubDate>Sat, 27 Mar 2021 19:25:26 -0400</pubDate>
       
-      <guid>https://ryan131.github.io/example-site/posts/stuff/</guid>
+      <guid>https://ryanyu131.github.io/example-site/posts/stuff/</guid>
       <description>Jaywall   Video + Picture</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ryan131.github.io/example-site/posts/about/</link>
+      <link>https://ryanyu131.github.io/example-site/posts/about/</link>
       <pubDate>Sat, 27 Mar 2021 19:10:11 -0400</pubDate>
       
-      <guid>https://ryan131.github.io/example-site/posts/about/</guid>
+      <guid>https://ryanyu131.github.io/example-site/posts/about/</guid>
       <description></description>
     </item>
     

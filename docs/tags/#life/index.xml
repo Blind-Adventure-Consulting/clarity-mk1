@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#Life on Title</title>
-    <link>https://ryan131.github.io/example-site/tags/#life/</link>
+    <link>https://ryanyu131.github.io/example-site/tags/#life/</link>
     <description>Recent content in #Life on Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Mar 2021 19:33:43 -0400</lastBuildDate><atom:link href="https://ryan131.github.io/example-site/tags/#life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 19:33:43 -0400</lastBuildDate><atom:link href="https://ryanyu131.github.io/example-site/tags/#life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>More</title>
-      <link>https://ryan131.github.io/example-site/posts/more/</link>
+      <link>https://ryanyu131.github.io/example-site/posts/more/</link>
       <pubDate>Sat, 27 Mar 2021 19:33:43 -0400</pubDate>
       
-      <guid>https://ryan131.github.io/example-site/posts/more/</guid>
+      <guid>https://ryanyu131.github.io/example-site/posts/more/</guid>
       <description>How to build a Static Site:   description of video</description>
     </item>
     
     <item>
       <title>Hockey</title>
-      <link>https://ryan131.github.io/example-site/posts/hockey/</link>
+      <link>https://ryanyu131.github.io/example-site/posts/hockey/</link>
       <pubDate>Sat, 27 Mar 2021 19:31:19 -0400</pubDate>
       
-      <guid>https://ryan131.github.io/example-site/posts/hockey/</guid>
+      <guid>https://ryanyu131.github.io/example-site/posts/hockey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ryan131.github.io/example-site/posts/about/</link>
+      <link>https://ryanyu131.github.io/example-site/posts/about/</link>
       <pubDate>Sat, 27 Mar 2021 19:10:11 -0400</pubDate>
       
-      <guid>https://ryan131.github.io/example-site/posts/about/</guid>
+      <guid>https://ryanyu131.github.io/example-site/posts/about/</guid>
       <description></description>
     </item>
     

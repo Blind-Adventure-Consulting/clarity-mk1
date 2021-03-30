@@ -3,7 +3,7 @@ theme: Blogpaper
 title: Title # Your site title
 author:
   name: Ryan # Your name
-baseURL: https://ryan131.github.io/example-site/ # Hostname (and path) to the root, e.g. https://bep.is/
+baseURL: https://ryanyu131.github.io/example-site/ # Hostname (and path) to the root, e.g. https://bep.is/
 copyright: # Optional, will be displayed on site's footer, if this line is removed an default copyright will be generated
 languageCode: en # The language code of your site, by default "en"
 menu:
