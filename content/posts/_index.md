@@ -6,7 +6,7 @@ categories: # Optional, will be displayed above the title of the page
 - First category
 - Second category
 summary: # Optional, will be diplayed on the homepage; remove this line to generate an automatic summary (see https://gohugo.io/content-management/summaries/)
-draft: true
+draft: false
 banner:
   #src: about.jpg # Optional, the filename of the banner, by default _index.jpg
   caption: # Optional, the caption of the banner
