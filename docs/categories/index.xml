@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Title</title>
+    <title>Categories on Clarity MK1</title>
     <link>https://ryanyu131.github.io/example-site/categories/</link>
-    <description>Recent content in Categories on Title</description>
+    <description>Recent content in Categories on Clarity MK1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Mar 2021 19:33:43 -0400</lastBuildDate><atom:link href="https://ryanyu131.github.io/example-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Apr 2021 17:46:02 -0400</lastBuildDate><atom:link href="https://ryanyu131.github.io/example-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Videos</title>
       <link>https://ryanyu131.github.io/example-site/categories/videos/</link>
-      <pubDate>Sat, 27 Mar 2021 19:33:43 -0400</pubDate>
+      <pubDate>Sun, 04 Apr 2021 17:46:02 -0400</pubDate>
       
       <guid>https://ryanyu131.github.io/example-site/categories/videos/</guid>
       <description></description>
@@ -19,27 +19,9 @@
     <item>
       <title>Pictures</title>
       <link>https://ryanyu131.github.io/example-site/categories/pictures/</link>
-      <pubDate>Sat, 27 Mar 2021 19:31:19 -0400</pubDate>
+      <pubDate>Thu, 01 Apr 2021 19:35:44 -0400</pubDate>
       
       <guid>https://ryanyu131.github.io/example-site/categories/pictures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First category</title>
-      <link>https://ryanyu131.github.io/example-site/categories/first-category/</link>
-      <pubDate>Sat, 27 Mar 2021 19:06:51 -0400</pubDate>
-      
-      <guid>https://ryanyu131.github.io/example-site/categories/first-category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Second category</title>
-      <link>https://ryanyu131.github.io/example-site/categories/second-category/</link>
-      <pubDate>Sat, 27 Mar 2021 19:06:51 -0400</pubDate>
-      
-      <guid>https://ryanyu131.github.io/example-site/categories/second-category/</guid>
       <description></description>
     </item>
     

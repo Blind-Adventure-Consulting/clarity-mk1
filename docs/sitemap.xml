@@ -2,46 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryanyu131.github.io/example-site/tags/#life/</loc>
-    <lastmod>2021-03-27T19:33:43-04:00</lastmod>
-  </url><url>
-    <loc>https://ryanyu131.github.io/example-site/tags/#projects/</loc>
-    <lastmod>2021-03-27T19:33:43-04:00</lastmod>
-  </url><url>
     <loc>https://ryanyu131.github.io/example-site/categories/</loc>
-    <lastmod>2021-03-27T19:33:43-04:00</lastmod>
-  </url><url>
-    <loc>https://ryanyu131.github.io/example-site/posts/more/</loc>
-    <lastmod>2021-03-27T19:33:43-04:00</lastmod>
-  </url><url>
-    <loc>https://ryanyu131.github.io/example-site/tags/</loc>
-    <lastmod>2021-03-27T19:33:43-04:00</lastmod>
+    <lastmod>2021-04-04T17:46:02-04:00</lastmod>
   </url><url>
     <loc>https://ryanyu131.github.io/example-site/</loc>
-    <lastmod>2021-03-27T19:33:43-04:00</lastmod>
+    <lastmod>2021-04-04T17:46:02-04:00</lastmod>
   </url><url>
     <loc>https://ryanyu131.github.io/example-site/categories/videos/</loc>
-    <lastmod>2021-03-27T19:33:43-04:00</lastmod>
+    <lastmod>2021-04-04T17:46:02-04:00</lastmod>
   </url><url>
-    <loc>https://ryanyu131.github.io/example-site/posts/hockey/</loc>
-    <lastmod>2021-03-27T19:31:19-04:00</lastmod>
+    <loc>https://ryanyu131.github.io/example-site/posts/videos/</loc>
+    <lastmod>2021-04-04T17:46:02-04:00</lastmod>
+  </url><url>
+    <loc>https://ryanyu131.github.io/example-site/posts/gallery/</loc>
+    <lastmod>2021-04-01T19:35:44-04:00</lastmod>
   </url><url>
     <loc>https://ryanyu131.github.io/example-site/categories/pictures/</loc>
-    <lastmod>2021-03-27T19:31:19-04:00</lastmod>
+    <lastmod>2021-04-01T19:35:44-04:00</lastmod>
   </url><url>
-    <loc>https://ryanyu131.github.io/example-site/posts/stuff/</loc>
-    <lastmod>2021-03-27T19:25:26-04:00</lastmod>
-  </url><url>
-    <loc>https://ryanyu131.github.io/example-site/posts/about/</loc>
-    <lastmod>2021-03-27T19:10:11-04:00</lastmod>
+    <loc>https://ryanyu131.github.io/example-site/posts/cad/</loc>
+    <lastmod>2021-03-27T19:35:44-04:00</lastmod>
   </url><url>
     <loc>https://ryanyu131.github.io/example-site/posts/</loc>
     <lastmod>2021-03-27T19:06:51-04:00</lastmod>
   </url><url>
-    <loc>https://ryanyu131.github.io/example-site/categories/first-category/</loc>
-    <lastmod>2021-03-27T19:06:51-04:00</lastmod>
+    <loc>https://ryanyu131.github.io/example-site/members/</loc>
   </url><url>
-    <loc>https://ryanyu131.github.io/example-site/categories/second-category/</loc>
-    <lastmod>2021-03-27T19:06:51-04:00</lastmod>
+    <loc>https://ryanyu131.github.io/example-site/tags/</loc>
   </url>
 </urlset>
