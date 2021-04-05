@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pictures on Clarity MK1</title>
-    <link>https://ryanyu131.github.io/example-site/categories/pictures/</link>
+    <link>https://ryanyu131.github.io/clarity-mk1/categories/pictures/</link>
     <description>Recent content in Pictures on Clarity MK1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Apr 2021 19:35:44 -0400</lastBuildDate><atom:link href="https://ryanyu131.github.io/example-site/categories/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 19:35:44 -0400</lastBuildDate><atom:link href="https://ryanyu131.github.io/clarity-mk1/categories/pictures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gallery</title>
-      <link>https://ryanyu131.github.io/example-site/posts/gallery/</link>
+      <link>https://ryanyu131.github.io/clarity-mk1/posts/gallery/</link>
       <pubDate>Thu, 01 Apr 2021 19:35:44 -0400</pubDate>
       
-      <guid>https://ryanyu131.github.io/example-site/posts/gallery/</guid>
+      <guid>https://ryanyu131.github.io/clarity-mk1/posts/gallery/</guid>
       <description>Gallery of Clarity MK1 </description>
     </item>
     
     <item>
       <title>CAD</title>
-      <link>https://ryanyu131.github.io/example-site/posts/cad/</link>
+      <link>https://ryanyu131.github.io/clarity-mk1/posts/cad/</link>
       <pubDate>Sat, 27 Mar 2021 19:35:44 -0400</pubDate>
       
-      <guid>https://ryanyu131.github.io/example-site/posts/cad/</guid>
+      <guid>https://ryanyu131.github.io/clarity-mk1/posts/cad/</guid>
       <description>Computer Aided Design of Clarity MK1 </description>
     </item>
     

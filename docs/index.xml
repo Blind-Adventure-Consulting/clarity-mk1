@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haptic Feedback Controlled Mobile Robot on Clarity MK1</title>
-    <link>https://ryanyu131.github.io/example-site/</link>
+    <link>https://ryanyu131.github.io/clarity-mk1/</link>
     <description>Recent content in Haptic Feedback Controlled Mobile Robot on Clarity MK1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Apr 2021 17:46:02 -0400</lastBuildDate><atom:link href="https://ryanyu131.github.io/example-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Apr 2021 17:46:02 -0400</lastBuildDate><atom:link href="https://ryanyu131.github.io/clarity-mk1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Videos</title>
-      <link>https://ryanyu131.github.io/example-site/posts/videos/</link>
+      <link>https://ryanyu131.github.io/clarity-mk1/posts/videos/</link>
       <pubDate>Sun, 04 Apr 2021 17:46:02 -0400</pubDate>
       
-      <guid>https://ryanyu131.github.io/example-site/posts/videos/</guid>
+      <guid>https://ryanyu131.github.io/clarity-mk1/posts/videos/</guid>
       <description>Blind Adventure Consulting presents to you, Clarity MK1, a haptic feedback controlled mobile robot from Ryerson University. Designed for surveillance and maneuverability in areas that would be normally difficult to reach.</description>
     </item>
     
     <item>
       <title>Gallery</title>
-      <link>https://ryanyu131.github.io/example-site/posts/gallery/</link>
+      <link>https://ryanyu131.github.io/clarity-mk1/posts/gallery/</link>
       <pubDate>Thu, 01 Apr 2021 19:35:44 -0400</pubDate>
       
-      <guid>https://ryanyu131.github.io/example-site/posts/gallery/</guid>
+      <guid>https://ryanyu131.github.io/clarity-mk1/posts/gallery/</guid>
       <description>Gallery of Clarity MK1 </description>
     </item>
     
     <item>
       <title>CAD</title>
-      <link>https://ryanyu131.github.io/example-site/posts/cad/</link>
+      <link>https://ryanyu131.github.io/clarity-mk1/posts/cad/</link>
       <pubDate>Sat, 27 Mar 2021 19:35:44 -0400</pubDate>
       
-      <guid>https://ryanyu131.github.io/example-site/posts/cad/</guid>
+      <guid>https://ryanyu131.github.io/clarity-mk1/posts/cad/</guid>
       <description>Computer Aided Design of Clarity MK1 </description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>https://ryanyu131.github.io/example-site/members/</link>
+      <link>https://ryanyu131.github.io/clarity-mk1/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ryanyu131.github.io/example-site/members/</guid>
+      <guid>https://ryanyu131.github.io/clarity-mk1/members/</guid>
       <description>Grady Liu Team Leader, Software Lead  As a software lead, Grady has developed the scripts for the lidar data processing and has implemented the robots movement controls and the vision system with object detection/recognition for the robot. As a team leader, Grady has overseen the development of the robot making critical suggestions in the design, overseen the spending and ensured that the team was able to complete their milestones on a timely basis.</description>
     </item>
     
