@@ -1,15 +1,15 @@
 publishDir: docs
 theme: Blogpaper
-title: Title # Your site title
+title: Clarity MK1 # Your site title
 author:
-  name: Ryan # Your name
+  name: BLIND ADVENTURE CONSULTING INC # Your name
 baseURL: https://ryanyu131.github.io/example-site/ # Hostname (and path) to the root, e.g. https://bep.is/
 copyright: # Optional, will be displayed on site's footer, if this line is removed an default copyright will be generated
 languageCode: en # The language code of your site, by default "en"
 menu:
   main: # Optional, the menu to display on top-right of your site, see https://gohugo.io/templates/menu-templates/#site-config-menus
-    - name: About
-      url: /about
+    - name: Members
+      url: /members
 params:
-  description: This is a new website # The description of your site (used on a <meta> tag)
+  description: # The description of your site (used on a <meta> tag)
   subtitleLength: 25 # The number of words on the subtitle of a page
