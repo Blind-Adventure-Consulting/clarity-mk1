@@ -42,4 +42,4 @@ banner:
 
 ## Kourosh Zareinia
 #### Ryerson Professor, Project Supervisor
-![](https://cdn.discordapp.com/attachments/827319210136698893/830913968981409853/Professor.jpg)
+![](https://cdn.discordapp.com/attachments/827319210136698893/832053663194415104/unknown.png)
