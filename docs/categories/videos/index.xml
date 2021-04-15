@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Clarity MK1</title>
+    <link>https://blind-adventure-consulting.github.io/clarity-mk1/categories/videos/</link>
+    <description>Recent content in Videos on Clarity MK1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Apr 2021 17:46:02 -0400</lastBuildDate><atom:link href="https://blind-adventure-consulting.github.io/clarity-mk1/categories/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos</title>
+      <link>https://blind-adventure-consulting.github.io/clarity-mk1/posts/videos/</link>
+      <pubDate>Sun, 04 Apr 2021 17:46:02 -0400</pubDate>
+      
+      <guid>https://blind-adventure-consulting.github.io/clarity-mk1/posts/videos/</guid>
+      <description>Blind Adventure Consulting presents to you, Clarity MK1, a haptic feedback controlled mobile robot from Ryerson University. Designed for surveillance and maneuverability in areas that would be normally difficult to reach.</description>
+    </item>
+    
+  </channel>
+</rss>
