@@ -25,6 +25,7 @@ banner:
 ![](https://cdn.discordapp.com/attachments/827319210136698893/828374042414284820/unknown.png)
 * Designed tracks and suspension components for 3D printing.
 
+
 ## Albert Mao
 #### Haptics Lead, Manufacturing Lead
 ![](https://cdn.discordapp.com/attachments/827319210136698893/828374756515643392/unknown.png)
@@ -37,3 +38,8 @@ banner:
 ![](https://cdn.discordapp.com/attachments/827319210136698893/828459885536215060/unknown.png)
 * Researched viable manufacturing methods for prototype parts.
 * Designed overall robot chassis and conducted simulation analysis on the parts.
+
+
+## Kourosh Zareinia
+#### Ryerson Professor, Project Supervisor
+![](https://cdn.discordapp.com/attachments/827319210136698893/830913968981409853/Professor.jpg)

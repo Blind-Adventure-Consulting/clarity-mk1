@@ -16,4 +16,4 @@ banner:
 ![](https://cdn.discordapp.com/attachments/827319210136698893/827321312413220924/Model_with_Icon.jpg)
 ![](https://cdn.discordapp.com/attachments/827319210136698893/827321304365137970/Isometric_Model.jpg)
 ![](https://cdn.discordapp.com/attachments/827319210136698893/827321321893527592/Model.jpg)
-![](https://cdn.discordapp.com/attachments/827319210136698893/827321329912381481/Older_Model.png)
+![](https://cdn.discordapp.com/attachments/827319210136698893/828797212841738250/Older_Model.png)

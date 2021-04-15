@@ -19,3 +19,5 @@ Clarity MK1 is equipped with a dual camera setup to provide:
 * Live streaming and object detection
 * Track and suspension design for ease of movement in rocky terrain
 * 360° LIDAR detection for Haptic feedback and mapping.
+
+![](https://www.youtube.com/watch?v=lrVFdXatt9s&ab_channel=GL_DW)
